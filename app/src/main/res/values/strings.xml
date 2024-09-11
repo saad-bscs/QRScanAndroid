@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BarCodeScanApp</string>
+
+    <string name="rValue">Scanned Value: </string>
+</resources>
